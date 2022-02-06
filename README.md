@@ -1,6 +1,8 @@
 # Mango5
 Project 1 working with  API
 
+Final Top 1000 Movie Analysis.ipynb compinded all the work
+
 Elliot's Notebook = ee_Top 1000 Movie Analysis.ipynb
     -Analyze Genre using Groupby and find correlations
     -Analyze Certificate using Groupby and find correlations
@@ -38,3 +40,62 @@ https://www.omdbapi.com/
 
 gmap 
 https://developers.google.com/maps/documentation/maps-static/overview
+
+Questions: 
+
+
+Where is the central hub of Movie production?
+
+Mostly in USA
+
+
+Does the IMDB Rating and Metascore have impact on the Gross Revenue?
+not realy
+
+Do movies have higher gross revenue with more number of votes?
+yes it does
+
+Which movie genre is the highest rated and which movie genre is the least rated?
+Western & Family
+
+Which movie genre makes the highest gross income and which movie genre makes the least?
+Aventures & Film-Noir
+
+Movie Certificate
+Motion Picture Association film rating system
+    G – General Audiences
+    PG – Parental Guidance     Suggested
+    PG-13 – Parents Strongly Cautioned
+    R – Restricted
+    NC-17 – Adults Only
+Which movie certificate is the highest rated and which movie certificate is the least rated?
+Passed & PG-13
+
+Which movie certificate makes the highest gross income and which movie certificate makes the least?
+AU &  Passed
+
+How often does each actor have been appeared?
+    Robert De Niro - 17
+    Tom Hanks - 14
+    Al Pacino - 13
+How often does each genre have been appeared?
+    Drama – 732
+    Comedy - 235
+    Crime – 217
+How often does each director have been appeared?
+    Alfred Hitchcock - 14
+    Steven Spielberg - 13
+    Hayao Miyazaki - 11
+2010 Top 200 Movies
+2015 Top 200 Movies
+2020 Top 200 Movies
+
+Prediction for the upcoming movies
+
+Last Survivors
+Moonfall
+The Long Night
+The Wolf and the Lion
+
+
+
